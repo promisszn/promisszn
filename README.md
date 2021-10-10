@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Promise</h1>
-<h3 align="center">I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.</h3>
+# Hi, I'm Promise <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🔭 I’m currently looking for **opportunities**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/https://www.linkedin.com/in/olayinka-promise-33213b19a//)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/promisszn)
+[<img src="https://komarev.com/ghpvc/?username=promisszn&label=Profile%20views&color=0e75b6&style=flat" alt="promisszn" />](https://github.com/promisszn/promisszn)
 
+I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+
+- 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **Vue js**
-
-- 👯 I’m looking to collaborate on **any open source projects**
-
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
+- 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **olayinkapromise80@gmail.com**
+- 📝 Check out my [resume](https://promisszn.github.io/resume/)
+- 📁 Check out my portfolio [coming.soon](#)
+- ⚡ Fun fact: **I no dey rest**
 
-- 📄 Know about my experiences [https://promisszn.github.io/resume/](https://promisszn.github.io/resume/)
+### Tools & Technologies
+![CSS3](https://img.shields.io/badge/-CSS-157286?logo=css3&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![JS](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25&style=flat-square)
+![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- ⚡ Fun fact **I no dey rest**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Github Stats
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=promisszn&show_icons=true&theme=cobalt&locale=en" alt="promisszn" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=promisszn&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="promisszn" />
 
