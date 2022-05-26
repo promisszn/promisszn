@@ -9,7 +9,7 @@
 I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning about **Blockchain**
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **olayinkapromise80@gmail.com**
 - 📝 Check out my [resume](https://drive.google.com/file/d/1JwomlB8UPOy8KpJ_e19SoSqsaZUw-gWy/view?usp=sharing)
