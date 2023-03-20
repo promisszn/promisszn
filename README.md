@@ -12,7 +12,7 @@ I am a frontend developer and aspiring to be a fullstack developer. At the momen
 - 🌱 I’m currently learning about **Web 3**
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **olayinkapromise80@gmail.com**
-- 📝 Check out my [resume](https://drive.google.com/file/d/1JwomlB8UPOy8KpJ_e19SoSqsaZUw-gWy/view?usp=sharing)
+- 📝 Check out my [resume](https://drive.google.com/file/d/107xHcxCkuRNz1NzeSEi0780SyTAtVz6_/view?usp=sharing)
 - 📁 Check out my portfolio [coming.soon](#)
 - ⚡ Fun fact: **I no dey rest**
 
